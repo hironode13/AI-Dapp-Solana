@@ -1,6 +1,6 @@
-# Solana-AI-Dapp
+# Solny dApp
 
-Solana AI Dapp is a decentralized application built on the Solana blockchain that utilizes advanced artificial intelligence technology to offer secure and efficient storage and transfer of digital assets. With smart contract functionality, Solana AI Dapp automates transactions and ensures compliance with customizable rules, making it an ideal choice for individuals and businesses looking to harness the power of blockchain technology and artificial intelligence.
+Solny dApp is a decentralized application built on the Solana blockchain that utilizes advanced artificial intelligence technology to offer secure and efficient storage and transfer of digital assets. With smart contract functionality, Solana AI Dapp automates transactions and ensures compliance with customizable rules, making it an ideal choice for individuals and businesses looking to harness the power of blockchain technology and artificial intelligence.
 
 Features
 Some of the key features of Solana AI Dapp include:
